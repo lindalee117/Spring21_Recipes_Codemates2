@@ -2,7 +2,7 @@
 Chicken Pot Pie
 
 ## Servings: 
-4-6 
+4-6
 
 ## Time to prepare: 
 
