@@ -8,11 +8,7 @@ Breakfast Burrito
 30 minutes
 
 ## Ingredients:
-Egg
-Burrito Wrap 
-Cheddar Cheese
-Cooked Potatoes
-salt & pepper
+Egg, Burrito Wrap , Cheddar Cheese, Cooked Potatoes, salt & pepper
 
 ## Equipment needed:
 Frying Pan
@@ -28,7 +24,9 @@ Stove
 
 
 ### Notes:
+Delicious and filling! 
 
 
 
 ### Codemates #
+2
