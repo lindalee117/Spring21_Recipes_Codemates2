@@ -24,7 +24,7 @@ Stove
 
 
 ### Notes:
-Delicious and filling! 
+Delicious and filling! Serve with your favorite salsa. 
 
 
 
